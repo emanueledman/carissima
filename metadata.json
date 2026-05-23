@@ -1,0 +1,6 @@
+{
+  "name": "Morning Outfit Picker",
+  "description": "Um assistente inteligente para planejar e sugerir looks harmoniosos de manhã de acordo com o clima, compromissos e estilo, evitando atrasos e arrependimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
